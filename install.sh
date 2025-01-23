@@ -92,7 +92,7 @@ restoreBackUp(){
     yarn build:production > /dev/null 2>&1
     sudo php artisan optimize:clear > /dev/null 2>&1
 }
-echo "Copyright (c) 2024 Angelillo15 and NoPro200"
+echo "Copyright (c) 2025 Ghlais"
 echo "This program is free software: you can redistribute it and/or modify"
 echo ""
 echo ""
